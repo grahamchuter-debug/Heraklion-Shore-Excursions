@@ -1,0 +1,588 @@
+{
+  "port": "heraklion",
+  "year": 2028,
+  "wave": "final-estate-lock",
+  "filterDecision": "PUBLISH",
+  "filterReason": "validated 19 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 45 restricted/unvalidated",
+  "total": 64,
+  "path": "C",
+  "calls": [
+    {
+      "date": "2028-01-10",
+      "ship": "Viking Mira",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-15",
+      "ship": "Viking Mira",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-20",
+      "ship": "Viking Vela",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-01-30",
+      "ship": "Viking Vela",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-14",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-16",
+      "ship": "Azamara Journey",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-23",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "14:00",
+      "timeInPort": "7h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-26",
+      "ship": "Viking Mira",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-07",
+      "ship": "Viking Mira",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-19",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-20",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-21",
+      "ship": "Explora V",
+      "cruiseLine": "Explora Journeys",
+      "arrival": "09:00",
+      "departure": "17:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-28",
+      "ship": "Oceania Vista",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "17:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-03-30",
+      "ship": "Viking Mars",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-08",
+      "ship": "Celebrity Infinity",
+      "cruiseLine": "Celebrity Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-08",
+      "ship": "Viking Sky",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-09",
+      "ship": "Caribbean Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-09",
+      "ship": "Viking Mars",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-10",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-15",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-17",
+      "ship": "Celebrity Infinity",
+      "cruiseLine": "Celebrity Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-18",
+      "ship": "Viking Sky",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-23",
+      "ship": "Viking Sea",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-29",
+      "ship": "Celebrity Infinity",
+      "cruiseLine": "Celebrity Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-01",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "10:00",
+      "departure": "20:00",
+      "timeInPort": "10h",
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-05-01",
+      "ship": "Enchanted Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-01",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-10",
+      "ship": "Enchanted Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-11",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "08:30",
+      "departure": "16:30",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-22",
+      "ship": "Arcadia",
+      "cruiseLine": "P & O Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-22",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-23",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-02",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "10:00",
+      "departure": "18:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-11",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-15",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "08:30",
+      "departure": "16:30",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-18",
+      "ship": "Oceania Aurelia",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-03",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-12",
+      "ship": "Azamara Onward",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-24",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-27",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "08:30",
+      "departure": "16:30",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-14",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-14",
+      "ship": "Viking Jupiter",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-24",
+      "ship": "Viking Jupiter",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-04",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-07",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "08:30",
+      "departure": "16:30",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-22",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "16:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-25",
+      "ship": "Sun Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-01",
+      "ship": "Seven Seas Explorer",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-09",
+      "ship": "AIDAstella",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-12",
+      "ship": "Seven Seas Grandeur",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-16",
+      "ship": "Azamara Onward",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-19",
+      "ship": "Seven Seas Explorer",
+      "cruiseLine": "Regent Seven Seas Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-20",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-22",
+      "ship": "Enchanted Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-24",
+      "ship": "MSC Lirica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "10:00",
+      "departure": "18:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-25",
+      "ship": "Azamara Quest",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "22:00",
+      "timeInPort": "14h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-28",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "16:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-02",
+      "ship": "AIDAblu",
+      "cruiseLine": "AIDA",
+      "arrival": "08:30",
+      "departure": "16:30",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-04",
+      "ship": "MSC Lirica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "10:00",
+      "departure": "18:00",
+      "timeInPort": "8h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-04",
+      "ship": "MSC Seaview",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-09",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "17:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-14",
+      "ship": "Enchanted Princess",
+      "cruiseLine": "Princess Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-11-20",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-12-03",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    }
+  ]
+}
